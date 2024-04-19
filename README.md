@@ -2,10 +2,11 @@
 
 A dynamic  software engineer from Kampala, Uganda, proficient in full-stack development with Python, HTML, CSS, and JavaScript. Experienced in collaborative project management and Git. Passionate about cybersecurity, skilled in ethical hacking, penetration testing, and implementing robust security measures. Actively contributes to the global cybersecurity community on LinkedIn Audio.
 
+
 ## Connect with me:
 [<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />](https://github.com/trinityfrances)
 [<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />](https://linkedin.com/in/https://www.linkedin.com/in/tushabe-trinity-francesco-47172828b/)
-[<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />](mailto:your_email@example.com)
+[<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />](mailto:tushabetrinityfrancesco@gmail.com)
 
 
 ## Languages and Tools:
@@ -33,3 +34,5 @@ A dynamic  software engineer from Kampala, Uganda, proficient in full-stack deve
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="40" height="40" />
 </p>
+
+![Hacker Gif](https://media1.tenor.com/m/Bpv9wTLKMskAAAAC/computer-nerds.gif)
